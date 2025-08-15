@@ -10,6 +10,8 @@ Opportunities were slipping away because drafting a single policy brief took ove
 
 This project’s expertise is in advocacy — not spending days formatting documents.
 
+![PolicyGen AI Overview](overview.png)
+
 ---
 
 ## 🎯 Task
